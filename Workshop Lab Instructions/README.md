@@ -11,3 +11,5 @@ These lab instructions complement the presentation and provide hands-on experien
 
 - seccomp-bpf
 -- Kernel 'syscall firewall'
+
+There are other namespaces and additional isolation and control mechanisms that Linux makes available. These are a good place to start when considering what is needed to start building a 'containerized' system.
